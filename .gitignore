@@ -29,3 +29,6 @@ Thumbs.db
 /storage/logs/*.log
 /bootstrap/cache/*.php
 !/bootstrap/cache/.gitignore
+
+# Include screenshots for documentation
+!/screenshots/*

@@ -2,6 +2,26 @@
 
 Aplikasi web untuk mengarsipkan dan mengelola surat-surat resmi Kelurahan Karangduren. Sistem ini memungkinkan petugas untuk menyimpan, mencari, dan menampilkan kembali surat-surat resmi dalam format PDF dengan sistem kategorisasi yang terorganisir.
 
+## 📸 Screenshot Aplikasi
+
+### Halaman Utama - Daftar Arsip Surat
+![Halaman Utama](screenshots/1-halaman-utama.png)
+
+### Form Tambah Surat Baru
+![Form Tambah Surat](screenshots/2-form-tambah-surat.png)
+
+### Detail & Preview Surat
+![Detail Surat](screenshots/3-detail-surat.png)
+
+### Manajemen Kategori Surat
+![Halaman Kategori](screenshots/4-halaman-kategori.png)
+
+### Form Tambah/Edit Kategori
+![Form Kategori](screenshots/5-form-kategori.png)
+
+### Halaman About
+![Halaman About](screenshots/6-halaman-about.png)
+
 ## 🎯 Tujuan Aplikasi
 
 - Mempermudah pengelolaan arsip surat-surat resmi kelurahan
