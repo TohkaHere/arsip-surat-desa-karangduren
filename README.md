@@ -211,12 +211,6 @@ arsip-surat-desa-karangduren/
 
 Project ini menggunakan [MIT License](LICENSE).
 
-## 👨‍💻 Developer
-
-**Nama**: [Isi Nama Anda]  
-**NIM**: [Isi NIM Anda]  
-**Program Studi**: [Isi Program Studi Anda]  
-**Tanggal**: [Isi Tanggal Pembuatan]
 
 ## 📞 Support
 
